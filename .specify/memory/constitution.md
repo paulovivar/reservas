@@ -28,7 +28,7 @@ Templates dependientes: no modificados (leen la constitución en tiempo de ejecu
 TODOs diferidos: ninguno.
 -->
 
-# Constitución del Sistema de Reservas de Pádel
+# Constitución del Sistema de Reservas de Fútbol
 
 ## Core Principles
 
